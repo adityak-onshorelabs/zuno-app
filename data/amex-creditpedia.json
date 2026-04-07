@@ -1,0 +1,248 @@
+[
+  {
+    "card_id": 1403,
+    "bank_name": "AMEX",
+    "card_name": "Gold Charge",
+    "trackers": [
+      {
+        "id": "M1",
+        "type": "milestone",
+        "spend_goal": 24000,
+        "goal_unit": "Points",
+        "period": "Monthly",
+        "reward_label": "Reward Points",
+        "raw_text": "24,000 MR points"
+      },
+      {
+        "id": "M2",
+        "type": "milestone",
+        "spend_goal": 18000,
+        "goal_unit": "Points",
+        "period": "Monthly",
+        "reward_label": "Gold Collection",
+        "raw_text": "24 Karat Gold Collection: (you can choose any of them) Taj voucher worth Rs. 14,000 Shoppers Stop voucher worth Rs. 10,000 Tata Cliq voucher worth Rs. 9,000 Tanishq voucher worth Rs. 9,000 Amazon voucher worth Rs. 8,000 Flipkart voucher worth Rs. 8,000 Reliance Digital voucher worth Rs. 8,000 18,000 MR points"
+      }
+    ],
+    "annual_fee": "5310.0",
+    "key_benefits": "Earn 1,000 bonus points on 6 transactions of ₹1,000 each every calendar month. Enjoy 1 Membership Rewards® point on all spend1 including utility",
+    "fuel": "0% Convenience fee on fueling up at HPCL",
+    "travel": "Enjoy access to valuable travel benefits under The Hotel Collection enjoy a room upgrade (where available) and a US$100 hotel credit when you stay two consecutive nights at over 400 hotels worldwide including Hilton Hotels, Intercontinental and Hyatt Hotels",
+    "dining": "Enjoy up to 20% off every time you dine at select restaurant partners.",
+    "insurance": "Zero lost Card liability",
+    "welcome_benefits": "Welcome Gift6 of 4,000 Bonus Membership Rewards® Points",
+    "golf": "",
+    "lounge_access": "",
+    "memberships": "",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "",
+    "eligibility": "Age: 18+ Good credit history and no payment defaults Personal Income of Lakhs and above If self employed: company has been trading for more than 12 months Indian or multinational banks savings or current account in India current residential address in India primary/supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag",
+    "forex": "3.5",
+    "interest_free_period": ""
+  },
+  {
+    "card_id": 1404,
+    "bank_name": "AMEX",
+    "card_name": "Membership Rewards",
+    "trackers": [
+      {
+        "id": "M1",
+        "type": "milestone",
+        "spend_goal": 1500,
+        "goal_unit": "INR",
+        "period": "Monthly",
+        "reward_label": "Reward Points",
+        "raw_text": "Earn 1,000 Bonus Membership Rewards Points for simply using your card 4 times on transactions of Rs. 1,500 or above in a calendar month"
+      },
+      {
+        "id": "M2",
+        "type": "milestone",
+        "spend_goal": 20000,
+        "goal_unit": "INR",
+        "period": "Monthly",
+        "reward_label": "Reward Points",
+        "raw_text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month"
+      },
+      {
+        "id": "M4",
+        "type": "milestone",
+        "spend_goal": 24000,
+        "goal_unit": "Points",
+        "period": "Monthly",
+        "reward_label": "Fee Waiver",
+        "raw_text": "Points to be credited within 90 days of Card renewal 24,000 MR points"
+      },
+      {
+        "id": "M5",
+        "type": "milestone",
+        "spend_goal": 18000,
+        "goal_unit": "Points",
+        "period": "Monthly",
+        "reward_label": "Gold Collection",
+        "raw_text": "24 Karat Gold Collection: (you can choose any of them) Taj voucher worth Rs. 14,000 Shoppers Stop voucher worth Rs. 10,000 Tata Cliq voucher worth Rs. 9,000 Tanishq voucher worth Rs. 9,000 Amazon voucher worth Rs. 8,000 Flipkart voucher worth Rs. 8,000 Reliance Digital voucher worth Rs. 8,000 18,000 MR points"
+      },
+      {
+        "id": "W1",
+        "type": "waiver",
+        "spend_goal": 150000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Fee Waiver",
+        "raw_text": "The Annual Membership Renewal fee of Rs.4500 will be 100% waived off if total spends on American Express Credit Card in the immediately preceding membership year is Rs.1,50,000 and above; else 50% annual membership renewal fee will be waived off if total spends on American Express Credit Card in the immediately preceding membership year is Rs.90,000 to Rs.1,49,999."
+      }
+    ],
+    "annual_fee": "5310.0",
+    "key_benefits": "Split the payment and not the joy. Use your American Express Credit Card for your next big purchase & pay in",
+    "fuel": "0% Convenience fee on fueling up at HPCL",
+    "travel": "",
+    "dining": "Enjoy exciting discounts of up to 20% every time you dine at select restaurants",
+    "insurance": "Zero lost Card liability",
+    "welcome_benefits": "",
+    "golf": "",
+    "lounge_access": "",
+    "memberships": "",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "",
+    "eligibility": "Age: 18+ Good credit history and no payment defaults Personal Income of Lakhs and above If self employed: company has been trading for more than 12 months Indian or multinational banks savings or current account in India current residential address in India primary/supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag",
+    "forex": "3.5",
+    "interest_free_period": ""
+  },
+  {
+    "card_id": 1405,
+    "bank_name": "AMEX",
+    "card_name": "Platinum Charge",
+    "trackers": [
+      {
+        "id": "M1",
+        "type": "milestone",
+        "spend_goal": 2000000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Fee Waiver",
+        "raw_text": "RENEWAL BENEFIT WORTH UPTO INR 35,000 VOUCHER* On spends on INR 20 Lakhs in membership year and payment of renewal fee, get vouchers upto INR 35,000* as renewal benefit on the product"
+      }
+    ],
+    "annual_fee": "77880.0",
+    "key_benefits": "Also earn 1 Membership Reward points for every INR 40 spent with your Card Get 3X Membership Reward points on everything, every time you spend abroad.",
+    "fuel": "",
+    "travel": "GET EXCLUSIVE STAY BENEFITS UP TO INR 44,300.3 Benefits worth INR 44,300* every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection. Travel benefits for those constantly on the move As a Platinum Cardmember, enjoy exclusive deals on some of the worlds finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more Enrich your travel experience with exclusive deals with our Domestic Lodging Program. Whether you are traveling for business or leisure, enjoy exclusive benefits like early check-in and late check-out*, room upgrades and much more. 25% off at Taj, SeleQtions and Vivanta Hotels* 50% off on Suites at Oberoi Hotels and Resorts* Additional complimentary* night when you book two or more nights for a club room or suite at The LaLiT in India and enjoy exclusive benefits",
+    "dining": "",
+    "insurance": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE. Go places with complete peace of mind, knowing you are protected with these benefits - Air Accident Insurance, Overseas Medical Insurance, Purchase Protection",
+    "welcome_benefits": "",
+    "golf": "",
+    "lounge_access": "Access over 1550+ lounges of the finest Airport Lounges globally Enjoy access to free WiFi, gourmet cuisines and other exclusive services while you wait between flights in our lounges spread across 140+ countries The American Express Global Lounge Collection includes access to: The Centurion® Lounge Priority Pass Lounges Delta Sky Club® Lounges when flying Delta Escape Lounges Domestic Partner Lounges in India",
+    "memberships": "Enjoy seamless upgrades to Elite Tier Memberships Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria. Taj Reimagined Epicure Marriott Bonvoy Gold Elite Status Hilton Honors Gold Status Radisson Rewards Premium Status Hertz Gold Plus Rewards The Postcard Sunshine Club, Platinum Tier Accor Plus Membership- Traveler Membership I Prefer - Titanium membership",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "",
+    "eligibility": "",
+    "forex": "3.5",
+    "interest_free_period": ""
+  },
+  {
+    "card_id": 1406,
+    "bank_name": "AMEX",
+    "card_name": "Platinum Reserve",
+    "trackers": [
+      {
+        "id": "W1",
+        "type": "waiver",
+        "spend_goal": 1000000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Fee Waiver",
+        "raw_text": "The Annual Membership Renewal fee of Rs.10,000 will be 100% waived off if total spends on American Express Platinum Reserve Credit Card in the immediately preceding membership year is Rs.10,00,000 and above"
+      }
+    ],
+    "annual_fee": "11800.0",
+    "key_benefits": "Earn 1 Membership Rewards® Point for every2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale",
+    "fuel": "0% Convenience fee on fueling up at HPCL",
+    "travel": "",
+    "dining": "",
+    "insurance": "",
+    "welcome_benefits": "Get a Welcome Gift of 11,000 Bonus Membership Rewards Points.",
+    "golf": "Spend Rs. 50,0008 in a month and enjoy complimentary3 access twice a month to 32+ lush green courses in India that come without a green fee, so you can perfect your swing and learn from the best!",
+    "lounge_access": "Complimentary access to international and domestic airport lounges across India. Also, enjoy complimentary membership4 to Priority Pass, with the US$99 annual membership fee waived off.",
+    "memberships": "Add luxury to your lifestyle with complimentary Accor Plus Traveller, Taj Epicure and EazyDiner Prime membership",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "Enjoy movie or online shopping vouchers6 worth Rs.12,0008 per year on spending Rs. 50,000 every month",
+    "eligibility": "The applicant must be over 18 years of age. The applicant must hold a savings or current account with an Indian or multinational bank in India. The applicant must have a good credit history with no payment defaults. The applicant must have a personal annual income of ₹6 lakhs or above (for both salaried and self-employed individuals). The applicant must have a current/permanent residential address in India. If self-employed, the applicants company must have been trading for more than 12 months. The applicant and/or supplementary card applicant(s) must be Resident Indian(s) as defined under the Income Tax Act of India, and must notify American Express Banking Corp. in case of a change in residential status. American Express Cards are currently issued only to residents of the following cities (subject to conditions): Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodara, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum, and Mysuru.",
+    "forex": "3.5",
+    "interest_free_period": ""
+  },
+  {
+    "card_id": 1407,
+    "bank_name": "AMEX",
+    "card_name": "Platinum Travel",
+    "trackers": [
+      {
+        "id": "M1",
+        "type": "milestone",
+        "spend_goal": 400000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Reward Points",
+        "raw_text": "Spend11 Rs 1.9 lakhs in a Cardmembership year and get 15,000 Membership Rewards® points that can be redeemed on Platinum Travel Collection or on Amex Travel Online Spend11 Rs 4 lakhs in a Cardmembership year and get additional 25,000 Membership Rewards® points that can be redeemed on Platinum Travel Collection or on Amex Travel Online"
+      }
+    ],
+    "annual_fee": "5900.0",
+    "key_benefits": "Earn 1 Membership Rewards Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale",
+    "fuel": "0% Convenience fee on fueling up at HPCL",
+    "travel": "Get a Taj Experiences E-Gift Card worth Rs. 10,000 from the Taj, SeleQtions and Vivanta Hotels",
+    "dining": "",
+    "insurance": "",
+    "welcome_benefits": "Welcome Gift1 of 10,000 Membership Rewards points* redeemable for Platinum Travel Collection or Pay with Points option on Amex Travel Online",
+    "golf": "",
+    "lounge_access": "Enjoy 8 complimentary visits per year (limited to two complimentary visit per quarter) to airport lounges across India",
+    "memberships": "Enjoy complimentary membership6 to Priority Pass, with the US$99 annual membership fee waived off exclusively for you.",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "",
+    "eligibility": "The applicant must be over 18 years of age. The applicant must hold a savings or current account with an Indian or multinational bank in India. The applicant must have a good credit history with no payment defaults. The applicant must have a personal annual income of ₹6 lakhs or above (for both salaried and self-employed individuals). The applicant must have a current/permanent residential address in India. If self-employed, the applicants company must have been trading for more than 12 months. The applicant and/or supplementary card applicant(s) must be Resident Indian(s) as defined under the Income Tax Act of India, and must notify American Express Banking Corp. in case of a change in residential status. American Express Cards are currently issued only to residents of the following cities (subject to conditions): Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodara, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum, and Mysuru.",
+    "forex": "3.5",
+    "interest_free_period": ""
+  },
+  {
+    "card_id": 1408,
+    "bank_name": "AMEX",
+    "card_name": "SmartEarn",
+    "trackers": [
+      {
+        "id": "M2",
+        "type": "milestone",
+        "spend_goal": 40000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Fee Waiver",
+        "raw_text": "Get a renewal fee waiver on eligible spends3 of Rs.40,000 and above in the previous year of Cardmembership"
+      },
+      {
+        "id": "W1",
+        "type": "waiver",
+        "spend_goal": 40000,
+        "goal_unit": "INR",
+        "period": "Annual",
+        "reward_label": "Fee Waiver",
+        "raw_text": "Get a renewal fee waiver on eligible spends of Rs.40,000 and above in the previous year of Cardmembership"
+      }
+    ],
+    "annual_fee": "585.28",
+    "key_benefits": "Earn Accelerated Membership Rewards® points when you spend on Amazon, Flipkart, Uber, BookMyShow, Zomato, EaseMyTrip and many more. Convert purchases into EMI at the point of sale with an interest rate as low as 14% p.a. 10X Membership Rewards® Transact on Zomato, Ajio, Nykaa, BookMyShow, Uber and many more and get 10X rewards for every Rs. 50 spent 5X Membership Rewards® Transact on Amazon and get 5X rewards for every Rs. 50 spent Earn 1 Membership Rewards Point for every Rs. 50 spent except for spends on Fuel, Insurance, Utilites, Cash Transactions and EMI conversion at Point of Sale",
+    "fuel": "0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above",
+    "travel": "",
+    "dining": "",
+    "insurance": "",
+    "welcome_benefits": "Rs. 500 cashback as a Welcome Gift in form of statement credit on eligible spends1 of Rs. 10,000 in the first 90 days of Cardmembership",
+    "golf": "",
+    "lounge_access": "",
+    "memberships": "",
+    "concierge": "",
+    "shopping": "",
+    "movies_and_events": "",
+    "eligibility": "The applicant and/or supplementary card applicant(s) must be Resident Indian(s) as defined under the Income Tax Act of India, and must notify American Express Banking Corp. in case of any change in residential status. American Express Cards are currently issued only to residents of the following cities (subject to conditions): Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Indore, Coimbatore, Chandigarh, Ahmedabad, Surat, Vadodara, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum, and Mysuru. The applicant must be employed with a personal annual income of INR 4.5 lakhs and above, or self-employed with a personal annual income of INR 6 lakhs and above. The applicant must hold a savings or current account with an Indian or multinational bank in India. The applicant must have a current/permanent residential address in India. The applicant must be over 18 years of age. The applicant must have a good credit history with no payment defaults. If self-employed, the applicants company must have been trading for more than 12 months.",
+    "forex": "3.5",
+    "interest_free_period": ""
+  }
+]

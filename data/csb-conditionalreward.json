@@ -1,0 +1,314 @@
+{
+	"CSB BANK": [
+		{
+			"card_id": 1515,
+			"bank_name": "CSB BANK",
+			"card_name": "Edge",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": ["on top shopping brands"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "top shopping brands"
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["on top travel brands"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "top travel brands"
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["on all online & offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1516,
+			"bank_name": "CSB BANK",
+			"card_name": "One Card",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 5,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 5,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Top 2 categories are eligible for 5X rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

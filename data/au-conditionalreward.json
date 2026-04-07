@@ -1,0 +1,1728 @@
+{
+	"AU SMALL FINANCE BANK": [
+		{
+			"card_id": 1001,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "LIT",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions",
+					"Additional 5% cashback for grocery & apparel expenses"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": [
+					"online domestic & international retail transactions",
+					"POS & Contactless offline domestic & international transactions"
+				],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1 Reward Point per INR 100 spent"],
+				"cap_value": 10000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1002,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Altura Plus",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["online transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["online transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["online transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["online transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from base earn",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["online transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility & Telecom and Insurance category spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility & Telecom and Insurance category spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1004,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Vetta",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "non-retail spends",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["maximum of 100 Reward Points per transaction"],
+				"cap_value": 100,
+				"cap_unit": "points",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1007,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Zenith",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 20,
+				"condition": ["retail spends at standalone restaurants"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["retail spends at Grocery and Departmental stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": ["retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility & Telecom spends"],
+				"cap_value": 100,
+				"cap_unit": "points",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1409,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Aditya Birla Capital Flex",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Online Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Offline Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["Online Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["Online Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Grocery & Departmental stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Education category spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Utilities"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1410,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Aditya Birla Capital Nxt",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Not explicitly listed; accelerated from category table"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Offline spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["Online spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["Online spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Grocery & Departmental stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Education category spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Utilities"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1411,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Aditya Birla Capital Pro",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Online Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Dining Experience"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Travel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Online Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["International Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1413,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "ixigo",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["online purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["online purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["online purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["online purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 10,
+				"condition": ["online purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 5,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1414,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "NOMO",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["retail purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["retail purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["retail purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["retail purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["retail purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["insurance transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["utility transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1416,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Zenith+",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Retail spends across all merchant categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Dining category"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Travel category"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Retail spends across all merchant categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Retail spends across all merchant categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["International spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": null,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1529,
+			"bank_name": "AU SMALL FINANCE BANK",
+			"card_name": "Aditya Birla Biz",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["first 5 days every month"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "special categories",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["first 5 days every month"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "special categories",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["first 5 days every month"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "special categories",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["first 5 days every month"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "special categories",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["special categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["special categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["special categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["Government, special categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["Utilities, special categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

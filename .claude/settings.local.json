@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(node -e \"const { version } = require\\('./node_modules/framer-motion/package.json'\\); console.log\\(version\\)\")",
+      "Bash(npx tsc:*)",
+      "Bash(node:*)",
+      "Bash(npx eslint:*)",
+      "Bash(cat .eslintrc*)",
+      "Bash(cat eslint.config*)"
+    ]
+  }
+}

@@ -1,0 +1,5929 @@
+{
+	"AXIS BANK": [
+		{
+			"card_id": 1009,
+			"bank_name": "AXIS BANK",
+			"card_name": "MY ZONE",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1010,
+			"bank_name": "AXIS BANK",
+			"card_name": "Axis Bank Rewards",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10x Edge Rewards available only for spends up to ₹7,000 in a month",
+					"Spends above ₹7,000 earn 2 Edge Rewards per ₹125"
+				],
+				"cap_value": 1008,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": "departmental and apparel stores"
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not eligible for milestone rewards",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not eligible for milestone rewards",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not eligible for milestone rewards",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1011,
+			"bank_name": "AXIS BANK",
+			"card_name": "Axis Bank Platinum",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["25% cashback on movie ticket purchases"],
+				"cap_value": 1000,
+				"cap_unit": "INR",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1012,
+			"bank_name": "AXIS BANK",
+			"card_name": "Axis Bank Indian Oil",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 1,
+				"accelerated_earn": 20,
+				"condition": [
+					"Only on Indian Oil petrol pumps",
+					"Applicable only for spends between ₹400 to ₹4000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Indian Oil petrol pumps"
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1013,
+			"bank_name": "AXIS BANK",
+			"card_name": "Atlas",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 5,
+				"condition": ["Only on spends upto ₹2,00,000 in a month"],
+				"cap_value": 200000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1014,
+			"bank_name": "AXIS BANK",
+			"card_name": "ACE",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["only on Swiggy and Zomato payments"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Swiggy, Zomato"
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["only on bill payments made through Google Pay"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Google Pay"
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1015,
+			"bank_name": "AXIS BANK",
+			"card_name": "Airtel Axis Bank",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": ["Swiggy and Zomato"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Swiggy, Zomato"
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": ["bigbasket"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "bigbasket"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 25,
+				"accelerated_earn": 25,
+				"condition": [
+					"Airtel Mobile, Broadband, WiFi and DTH bill payments only via Airtel Thanks app",
+					"payments for gas, electricity, etc. only via Airtel Thanks app"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Airtel"
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1016,
+			"bank_name": "AXIS BANK",
+			"card_name": "Reserve",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [
+					"No reward points for rental spends above ₹1,00,000 per month"
+				],
+				"cap_value": 100000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "No reward points for rental spends above ₹1,00,000 per month",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 30,
+				"accelerated_earn": 30,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1017,
+			"bank_name": "AXIS BANK",
+			"card_name": "Vistara",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1018,
+			"bank_name": "AXIS BANK",
+			"card_name": "Privilege",
+			"shopping": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestone",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestone",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestone",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestone",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1019,
+			"bank_name": "AXIS BANK",
+			"card_name": "Pride Signature",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1020,
+			"bank_name": "AXIS BANK",
+			"card_name": "Pride Platinum",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1022,
+			"bank_name": "AXIS BANK",
+			"card_name": "Vistara Infinite",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1023,
+			"bank_name": "AXIS BANK",
+			"card_name": "Flipkart",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 5,
+				"condition": ["5% cashback on Flipkart"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Flipkart"
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 5,
+				"condition": ["5% cashback on Cleartrip and 4% cashback on Uber"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Cleartrip, Uber"
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["4% cashback on PVR"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "PVR"
+			},
+			"fuel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 4,
+				"condition": ["4% cashback on Swiggy Instamart"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Swiggy Instamart"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1024,
+			"bank_name": "AXIS BANK",
+			"card_name": "Neo",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1025,
+			"bank_name": "AXIS BANK",
+			"card_name": "My Zone Easy",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1026,
+			"bank_name": "AXIS BANK",
+			"card_name": "My Wings",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1027,
+			"bank_name": "AXIS BANK",
+			"card_name": "AURA",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [
+					"Rewards accrued only upto a max transaction value of ₹10,000"
+				],
+				"cap_value": 10000,
+				"cap_unit": "INR",
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1028,
+			"bank_name": "AXIS BANK",
+			"card_name": "Miles & More Select",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1394,
+			"bank_name": "AXIS BANK",
+			"card_name": "Miles & More World",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1029,
+			"bank_name": "AXIS BANK",
+			"card_name": "Vistara Signature",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1030,
+			"bank_name": "AXIS BANK",
+			"card_name": "KWIK RuPay",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Edge Reward Points are accrued on UPI transactions only for transaction value above ₹2000"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1031,
+			"bank_name": "AXIS BANK",
+			"card_name": "SELECT",
+			"shopping": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["Only For spends upto ₹20,000 in a month"],
+				"cap_value": 20000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["Only For spends upto ₹20,000 in a month"],
+				"cap_value": 20000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestones",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestones",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestones",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "excluded from milestones",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1032,
+			"bank_name": "AXIS BANK",
+			"card_name": "Titanium Smart Traveller",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1033,
+			"bank_name": "AXIS BANK",
+			"card_name": "Freecharge Plus",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 5,
+				"condition": [
+					"Cashback applicable only on transactions above ₹100",
+					"5% cashback only through Freecharge"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Freecharge"
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Cashback applicable only on transactions above ₹100"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1034,
+			"bank_name": "AXIS BANK",
+			"card_name": "Freecharge",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1035,
+			"bank_name": "AXIS BANK",
+			"card_name": "Flipkart Super Elite",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["Only for Flipkart Plus members"],
+				"cap_value": 300,
+				"cap_unit": "super coins",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["Only for Flipkart Plus members"],
+				"cap_value": 300,
+				"cap_unit": "super coins",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["Only for Flipkart Plus members"],
+				"cap_value": 300,
+				"cap_unit": "super coins",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1036,
+			"bank_name": "AXIS BANK",
+			"card_name": "Magnus",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 60,
+				"condition": ["Only on Travel Edge Portal purchases"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Travel Edge Portal"
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1037,
+			"bank_name": "AXIS BANK",
+			"card_name": "SpiceJet Voyage Black",
+			"shopping": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1038,
+			"bank_name": "AXIS BANK",
+			"card_name": "SpiceJet Voyage",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 12,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1039,
+			"bank_name": "AXIS BANK",
+			"card_name": "Samsung Signature",
+			"shopping": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Only on Myntra"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Myntra"
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Only on Zomato"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Zomato"
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Only on BigBasket"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "BigBasket"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1040,
+			"bank_name": "AXIS BANK",
+			"card_name": "Samsung Infinite",
+			"shopping": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": ["Only on Myntra"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Myntra"
+			},
+			"dining": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": ["Only on Zomato"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Zomato"
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": ["Only on BigBasket"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "BigBasket"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1041,
+			"bank_name": "AXIS BANK",
+			"card_name": "Burgundy Private",
+			"shopping": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": ["A maximum of 6000 Edge Reward Points per transaction"],
+				"cap_value": 6000,
+				"cap_unit": "points",
+				"cap_period": "transaction",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [
+					"No reward points for rental spends above ₹1,00,000 per month"
+				],
+				"cap_value": 100000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "No reward points for rental spends above ₹1,00,000 per month",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 15,
+				"accelerated_earn": 15,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1395,
+			"bank_name": "AXIS BANK",
+			"card_name": "Shoppers Stop",
+			"shopping": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["Only at Shoppers Stop"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Shoppers Stop"
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1398,
+			"bank_name": "AXIS BANK",
+			"card_name": "Olympus",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1400,
+			"bank_name": "AXIS BANK",
+			"card_name": "Horizon",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["When booked through Travel Edge"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1401,
+			"bank_name": "AXIS BANK",
+			"card_name": "Indian Oil Premium",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Only at Indian Oil petrol pumps",
+					"Only for monthly spends upto Rs.15000"
+				],
+				"cap_value": 15000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": "Indian Oil petrol pumps"
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Only for monthly spends upto Rs.5000"],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1402,
+			"bank_name": "AXIS BANK",
+			"card_name": "LIC",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Only for LIC payments"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [""],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

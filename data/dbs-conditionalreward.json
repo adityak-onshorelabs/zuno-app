@@ -1,0 +1,1867 @@
+{
+	"DBS BANK": [
+		{
+			"card_id": 1343,
+			"bank_name": "DBS BANK",
+			"card_name": "Vantage",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"4 VP on every ₹200 spent within India",
+					"8 VP on every ₹200 spent internationally"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1344,
+			"bank_name": "DBS BANK",
+			"card_name": "Bajaj Finserv SuperCard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1506,
+			"bank_name": "DBS BANK",
+			"card_name": "10X Plus Signature Supercard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends after total spends of Rs. 20,000 in a statement month",
+					"Excludes cash withdrawals, fuel, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends after total spends of Rs. 20,000 in a statement month",
+					"Excludes cash withdrawals, fuel, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends after total spends of Rs. 20,000 in a statement month",
+					"Excludes cash withdrawals, fuel, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends after total spends of Rs. 20,000 in a statement month",
+					"Excludes cash withdrawals, fuel, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends after total spends of Rs. 20,000 in a statement month",
+					"Excludes cash withdrawals, fuel, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "wallet loading excluded from accelerated rewards",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "utility spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "rental spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1507,
+			"bank_name": "DBS BANK",
+			"card_name": "10X Signature Supercard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends on reaching total spends of Rs. 20,000 in a statement month",
+					"Excluding cash withdrawals, fuel spends, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends on reaching total spends of Rs. 20,000 in a statement month",
+					"Excluding cash withdrawals, fuel spends, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends on reaching total spends of Rs. 20,000 in a statement month",
+					"Excluding cash withdrawals, fuel spends, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends on reaching total spends of Rs. 20,000 in a statement month",
+					"Excluding cash withdrawals, fuel spends, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Excluded from 10X rewards on reaching Rs. 20,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X rewards on all spends on reaching total spends of Rs. 20,000 in a statement month",
+					"Excluding cash withdrawals, fuel spends, wallet loading, rental and utility spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawals, fuel spends, wallet loading, rental and utility spends",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Excluded from 10X rewards on reaching Rs. 20,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "wallet loading",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Excluded from 10X rewards on reaching Rs. 20,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "utility spends",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Excluded from 10X rewards on reaching Rs. 20,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "rental spends",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated rewards specified"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1508,
+			"bank_name": "DBS BANK",
+			"card_name": "5X Plus Supercard",
+			"shopping": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1509,
+			"bank_name": "DBS BANK",
+			"card_name": "5X Supercard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"5X rewards on reaching spends of Rs. 10,000 on all spends apart from transactions of cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"5X rewards on reaching spends of Rs. 10,000 on all spends apart from transactions of cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"5X rewards on reaching spends of Rs. 10,000 on all spends apart from transactions of cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"5X rewards on reaching spends of Rs. 10,000 on all spends apart from transactions of cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["excluded from accelerated rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"5X rewards on reaching spends of Rs. 10,000 on all spends apart from transactions of cash withdrawals, fuel spends, wallet loading, rental and utility spends within a statement period"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["excluded from accelerated rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "wallet loading excluded from accelerated rewards",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["excluded from accelerated rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "utility spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["excluded from accelerated rewards"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "rental spends excluded from accelerated rewards",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1510,
+			"bank_name": "DBS BANK",
+			"card_name": "7X Plus Supercard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X cash points in a given month on crossing ₹15,000 in spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X cash points in a given month on crossing ₹15,000 in spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X cash points in a given month on crossing ₹15,000 in spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X cash points in a given month on crossing ₹15,000 in spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X cash points in a given month on crossing ₹15,000 in spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1511,
+			"bank_name": "DBS BANK",
+			"card_name": "7X Supercard",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X multiplier on cash points in a month after ₹15,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X multiplier on cash points in a month after ₹15,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X multiplier on cash points in a month after ₹15,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X multiplier on cash points in a month after ₹15,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 14,
+				"condition": [
+					"7X multiplier on cash points in a month after ₹15,000 spends"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1512,
+			"bank_name": "DBS BANK",
+			"card_name": "Spark 10",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X cash points on monthly offline spends over ₹50,000",
+					"Bonus 3,500 Cash Points on spends of ₹75,000 in a calendar quarter"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Bonus applies on offline spends only",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X cash points on monthly offline spends over ₹50,000",
+					"Bonus 3,500 Cash Points on spends of ₹75,000 in a calendar quarter"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Bonus applies on offline spends only",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X cash points on monthly offline spends over ₹50,000",
+					"Bonus 3,500 Cash Points on spends of ₹75,000 in a calendar quarter"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Bonus applies on offline spends only",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X cash points on monthly offline spends over ₹50,000",
+					"Bonus 3,500 Cash Points on spends of ₹75,000 in a calendar quarter"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Bonus applies on offline spends only",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": [
+					"10X cash points on monthly offline spends over ₹50,000",
+					"Bonus 3,500 Cash Points on spends of ₹75,000 in a calendar quarter"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Bonus applies on offline spends only",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1513,
+			"bank_name": "DBS BANK",
+			"card_name": "Spark 20",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 40,
+				"condition": [
+					"No specific condition mentioned for accelerated rewards on Shopping"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 800,
+				"condition": [
+					"Monthly offline spends of over ₹20,000",
+					"Bonus 20X cash points up to 7,000 points"
+				],
+				"cap_value": 7000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 40,
+				"condition": [
+					"No specific condition mentioned for accelerated rewards on Travel"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 40,
+				"condition": [
+					"No specific condition mentioned for accelerated rewards on Movie"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 40,
+				"accelerated_earn": 800,
+				"condition": [
+					"Monthly offline spends of over ₹20,000",
+					"Bonus 20X cash points up to 7,000 points"
+				],
+				"cap_value": 7000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Jewellery"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Wallet"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Wallet loads",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Education"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Insurance"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Tax"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Monthly offline spends of over ₹20,000",
+					"Bonus 20X cash points up to 7,000 points"
+				],
+				"cap_value": 7000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Rent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Forex"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No accelerated reward mentioned for Business"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1514,
+			"bank_name": "DBS BANK",
+			"card_name": "Spark 5",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"Bonus 5X Cash Points of upto 3,000 cash points on monthly offline spends of over ₹10,000",
+					"Bonus 2,500 Cash Points on spends of ₹50,000 in a calendar quarter"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"Bonus 5X Cash Points of upto 3,000 cash points on monthly offline spends of over ₹10,000",
+					"Bonus 2,500 Cash Points on spends of ₹50,000 in a calendar quarter"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"Bonus 5X Cash Points of upto 3,000 cash points on monthly offline spends of over ₹10,000",
+					"Bonus 2,500 Cash Points on spends of ₹50,000 in a calendar quarter"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"Bonus 5X Cash Points of upto 3,000 cash points on monthly offline spends of over ₹10,000",
+					"Bonus 2,500 Cash Points on spends of ₹50,000 in a calendar quarter"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": [
+					"Bonus 5X Cash Points of upto 3,000 cash points on monthly offline spends of over ₹10,000",
+					"Bonus 2,500 Cash Points on spends of ₹50,000 in a calendar quarter"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

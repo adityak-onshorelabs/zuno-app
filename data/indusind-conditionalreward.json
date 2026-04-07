@@ -1,0 +1,5638 @@
+{
+	"INDUSIND BANK": [
+		{
+			"card_id": 1370,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Platinum Aura Edge",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["departmental stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["restaurant bills"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": ["hotel expenses"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["movie tickets"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["grocery shopping"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1.4,
+				"accelerated_earn": 1.4,
+				"condition": ["insurance premium"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1.4,
+				"accelerated_earn": 1.4,
+				"condition": ["electricity bills", "cellphone bills"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1371,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Indulge",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["all retail spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1372,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Platinum Master",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1.5 reward points for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1373,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Celesta",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": null,
+				"accelerated_earn": null,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": null,
+				"accelerated_earn": null,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1374,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Platinum",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["for every ₹ 150 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1375,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Intermiles Voyage",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 8,
+				"condition": [
+					"Spends on flights booked via www.intermiles.com & hotels booked via interbook.intermiles.com (Amex weekend) / 6 weekday"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": "www.intermiles.com, interbook.intermiles.com"
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Educational institute fees"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Insurance"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Government Services/Charges/Payments"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["All other spends"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1376,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "EazyDiner",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel and dining",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel and dining",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1377,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Club Vistara Explorer",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 8,
+				"condition": ["Hotel / Airline/ Travel spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility/ Insurance/ Govt. Payments/ Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility/ Insurance/ Govt. Payments/ Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility/ Insurance/ Govt. Payments/ Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility/ Insurance/ Govt. Payments/ Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1378,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Avios Visa Infinite",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 5,
+				"condition": [
+					"Spends on Qatar Airways & British Airways website and App"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Qatar Airways, British Airways"
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Spends on Education"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Spends on Insurance"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Spends on Govt services"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Spends on Utilities"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 3,
+				"accelerated_earn": 6,
+				"condition": [
+					"Spends in selected preferred international destination for Point of Sale transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1379,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "InterMiles Odyssey",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 4,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 4,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 8,
+				"condition": [
+					"weekday 6, weekend 8 on flights via www.intermiles.com & hotels via interbook.intermiles.com; weekday 3, weekend 4 otherwise"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "www.intermiles.com, interbook.intermiles.com"
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 4,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 4,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 3,
+				"accelerated_earn": 0,
+				"condition": ["weekday 3, weekend 4"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1380,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Pioneer Legacy",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1382,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Nexxt",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1383,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Platinum Select",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1384,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Pioneer Heritage",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1385,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Iconia Visa",
+			"shopping": {
+				"base_earn": 0.75,
+				"accelerated_earn": 1,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0.75,
+				"accelerated_earn": 1,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0.75,
+				"accelerated_earn": 1,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0.75,
+				"accelerated_earn": 1,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0.75,
+				"accelerated_earn": 1,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 0.75 Reward Points",
+					"Weekends: 1 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1386,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Payback",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1387,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Duo Plus",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1388,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Pinnacle World",
+			"shopping": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": ["E-commerce transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": ["E-commerce transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["E-com travel and airline transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": ["E-commerce transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": ["E-commerce transactions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1389,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Platinum Aura",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": [
+					"Departmental Stores",
+					"Consumer Durables or Electronic Items"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": ["Restaurant Bills", "Bars and Pubs"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": [
+					"Hotel Expenditure",
+					"Airline Tickets",
+					"Car rental",
+					"Railway Tickets"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": ["Movies Tickets"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": ["Grocerry"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0.5,
+				"condition": ["Insurance Premium"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0.5,
+				"condition": ["Cellphone Bills", "Electricity Bills"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1390,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Crest",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1391,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Legend",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 2,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 0.7,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 0.7,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 0.7,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 1,
+				"accelerated_earn": 0.7,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 1,
+				"accelerated_earn": 0,
+				"condition": ["Weekends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1392,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Signature Visa",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1393,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Iconia Amex",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 2,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 2,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 2,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 2,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 2,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 1.5,
+				"accelerated_earn": 0,
+				"condition": [
+					"Weekdays: 1.5 Reward Points",
+					"Weekends: 2 Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1488,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Avios",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": ["All other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": ["All other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [
+					"Spends in domestic and other international destinations"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": ["All other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": ["All other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"For spends on Utilities, Govt services, Education and Insurance"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"For spends on Utilities, Govt services, Education and Insurance"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"For spends on Utilities, Govt services, Education and Insurance"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"For spends on Utilities, Govt services, Education and Insurance"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 3,
+				"accelerated_earn": 6,
+				"condition": [
+					"Spends in selected preferred international destination for Point of Sale transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1489,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Duo",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1490,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "EazyDiner Platinum",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Earn 2 Reward Points on every INR 100 spent",
+					"Get 2X EazyPoints using your EazyDiner IndusInd Bank Credit Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "EazyDiner"
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Earn 2 Reward Points on every INR 100 spent, except on Fuel"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "No points earned on Fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["Earn 0.7 Reward Points on Insurance spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from standard 2 points rate",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["Earn 0.7 Reward Points on Government spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from standard 2 points rate",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["Earn 0.7 Reward Points on Utility spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from standard 2 points rate",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": ["Earn 0.7 Reward Points on Rent spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from standard 2 points rate",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Earn 2 Reward Points on every INR 100 spent"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1491,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "EazyDiner Signature",
+			"shopping": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Get 3X EazyPoints"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel and dining (4 RP base excluded for dining)",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["Hotel and Travel booking, shopping and entertainment"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except fuel and dining",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 4,
+				"accelerated_earn": 0,
+				"condition": ["all other spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1492,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Epay",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": [
+					"1st to 4th transaction: 4 points",
+					"5th to 10th transaction: 8 points",
+					"Beyond 10th transaction: 10 points",
+					"Minimum transaction value: Rs 500",
+					"With loyalty bonus (12th month after 11 months active): 2X multiplier"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": [
+					"1st to 4th transaction: 4 points",
+					"5th to 10th transaction: 8 points",
+					"Beyond 10th transaction: 10 points",
+					"Minimum transaction value: Rs 500",
+					"With loyalty bonus (12th month after 11 months active): 2X multiplier"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": [
+					"1st to 4th transaction: 4 points",
+					"5th to 10th transaction: 8 points",
+					"Beyond 10th transaction: 10 points",
+					"Minimum transaction value: Rs 500",
+					"With loyalty bonus (12th month after 11 months active): 2X multiplier"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": [
+					"1st to 4th transaction: 4 points",
+					"5th to 10th transaction: 8 points",
+					"Beyond 10th transaction: 10 points",
+					"Minimum transaction value: Rs 500",
+					"With loyalty bonus (12th month after 11 months active): 2X multiplier"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 10,
+				"condition": [
+					"1st to 4th transaction: 4 points",
+					"5th to 10th transaction: 8 points",
+					"Beyond 10th transaction: 10 points",
+					"Minimum transaction value: Rs 500",
+					"With loyalty bonus (12th month after 11 months active): 2X multiplier"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1495,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Poonawalla Fincorp Elite",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 2.5,
+				"condition": ["E-commerce"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1496,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Samman",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["all Retail spends"],
+				"cap_value": 200,
+				"cap_unit": "INR",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Railway Surcharge"],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1497,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Solitaire",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0.7,
+				"accelerated_earn": 0.7,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Spend INR 1 lakh in first 30 days from card issuance date and earn 5000 Bonus Reward Points"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1498,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Tiger",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Upto 1,00,000 - 1 RP; 1,00,001-2,50,000 -2 RP; 2,50,001-5,00,000 -4 RP; >5,00,000 -6 RP"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Upto 1,00,000 - 1 RP; 1,00,001-2,50,000 -2 RP; 2,50,001-5,00,000 -4 RP; >5,00,000 -6 RP"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Upto 1,00,000 - 1 RP; 1,00,001-2,50,000 -2 RP; 2,50,001-5,00,000 -4 RP; >5,00,000 -6 RP"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Upto 1,00,000 - 1 RP; 1,00,001-2,50,000 -2 RP; 2,50,001-5,00,000 -4 RP; >5,00,000 -6 RP"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"Upto 1,00,000 - 1 RP; 1,00,001-2,50,000 -2 RP; 2,50,001-5,00,000 -4 RP; >5,00,000 -6 RP"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1499,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "Vrddhi",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 0,
+				"condition": [
+					"1000 Reward Points on 6 utility bill payments for the 1st 6 months of card setup"
+				],
+				"cap_value": 1000,
+				"cap_unit": "points",
+				"cap_period": "1st 6 months",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 4,
+				"condition": ["international transaction"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["none"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1568,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "InterMiles Odyssey AMEX",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 6,
+				"condition": ["4 weekday, 6 weekend"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 6,
+				"condition": ["4 weekday, 6 weekend"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 12,
+				"condition": [
+					"Etihad airways (weekday 10, weekend 7.5); intermiles.com flights/hotels (weekday 8, weekend 12); else 4 weekday, 6 weekend"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Etihad airways, www.intermiles.com, interbook.intermiles.com"
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 6,
+				"condition": ["4 weekday, 6 weekend"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 6,
+				"condition": ["4 weekday, 6 weekend"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1569,
+			"bank_name": "INDUSIND BANK",
+			"card_name": "InterMiles Voyage AMEX",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"weekday 3, weekend 4 (Amex); weekday 2, weekend 3 (Visa)"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"weekday 3, weekend 4 (Amex); weekday 2, weekend 3 (Visa)"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"Amex: weekend 8, weekday 6 on intermiles.com flights & interbook.intermiles.com hotels; Visa: weekend 6, weekday 4; Etihad: weekend 5, weekday 7.5"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": "intermiles.com, interbook.intermiles.com, Etihad airways"
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"weekday 3, weekend 4 (Amex); weekday 2, weekend 3 (Visa)"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["redeem InterMiles for free fuel at selected IOCL"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": "IOCL"
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"weekday 3, weekend 4 (Amex); weekday 2, weekend 3 (Visa)"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Educational institute fees earn 1 Intermile per ₹100"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Insurance earns 1 Intermile per ₹100"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Government Services/Charges/Payments earn 1 Intermile per ₹100"
+				],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Utility earns 1 Intermile per ₹100"],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 75000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

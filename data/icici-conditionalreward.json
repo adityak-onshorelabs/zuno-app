@@ -1,0 +1,6232 @@
+{
+	"ICICI BANK": [
+		{
+			"card_id": 1131,
+			"bank_name": "ICICI BANK",
+			"card_name": "Business Advantage Black Card",
+			"shopping": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": [
+					"Statement Balance > ₹75,000: 1%",
+					"Statement Balance ₹25,000 - ₹75,000: domestic spends 0.5%",
+					"international spends 1%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1133,
+			"bank_name": "ICICI BANK",
+			"card_name": "Gold Corporate Card",
+			"shopping": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1135,
+			"bank_name": "ICICI BANK",
+			"card_name": "ICICI Platinum Corporate Card",
+			"shopping": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1137,
+			"bank_name": "ICICI BANK",
+			"card_name": "Chennai Super Kings",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 10,
+				"condition": ["CSK match days"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, Fuel, charges or fees connected to credit card, Expenditure in form of EMI, BT or PLCC transactions",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1141,
+			"bank_name": "ICICI BANK",
+			"card_name": "Visa Business Platinum",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["NA"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1142,
+			"bank_name": "ICICI BANK",
+			"card_name": "Accelero",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1143,
+			"bank_name": "ICICI BANK",
+			"card_name": "Amazon Pay",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 5,
+				"condition": [
+					"Amazon PRIME members receive 5%, Non-Prime members receive 3%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Amazon"
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on fuel purchases",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on gold, silver, any precious metal purchases",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on tax-related payments",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1144,
+			"bank_name": "ICICI BANK",
+			"card_name": "Platinum Business Card",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal,fuel and utility payments",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1146,
+			"bank_name": "ICICI BANK",
+			"card_name": "Business Advantage Blue",
+			"shopping": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.5,
+				"accelerated_earn": 1,
+				"condition": ["Statement Balance > ₹75,000"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["International spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1148,
+			"bank_name": "ICICI BANK",
+			"card_name": "Business Ascent Card",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent",
+					"Rent pay attracts 1% surcharge"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Exclusions: except cash withdrawal, fuel, Insurance, utility and rent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "cash withdrawal, fuel, Insurance, utility and rent",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1150,
+			"bank_name": "ICICI BANK",
+			"card_name": "Platinum Chip",
+			"shopping": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["Retail"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["Retail"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": ["Insurance"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": ["Utility"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not included in Retail, Insurance and Utility spends only",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1152,
+			"bank_name": "ICICI BANK",
+			"card_name": "Business Essential",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from earning rewards",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from earning rewards",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from earning rewards",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from earning rewards",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% fee levied on all rent payment transactions on any merchant platform"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Excluded from earning rewards",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1154,
+			"bank_name": "ICICI BANK",
+			"card_name": "Rubyx",
+			"error": "JSON Parsing Failed",
+			"raw_output": "{\n  \"shopping\": {\n    \"base_earn\": 2,\n    \"accelerated_earn\": 2,\n    \"condition\": [\"Milestone rewards: 3000 points on ₹300000 spend, 1500 points per additional ₹100000, max 15000 points per anniversary year\"],\n    \"cap_value\": 15000,\n    \"cap_unit\": \"points\",\n    \"cap_period\": \"year\",\n    \"exclusions\": null,\n    \"brands\": null\n  },\n  \"dining\": {\n    \"base_earn\": 2,\n    \"accelerated_earn\": 2,\n    \"condition\": [\"Milestone rewards: 3000 points on ₹300000 spend, 1500 points per additional ₹100000, max 15000 points per anniversary year\"],\n    \"cap_value\": 15000,\n    \"cap_unit\": \"points\",\n    \"cap_period\": \"year\",\n    \"exclusions\": null,\n    \"brands\": null\n  },\n  \"travel\": {\n    \"base_earn\": 2,\n    \"accelerated_earn\": 2,\n    \"condition\": [\"Milestone"
+		},
+		{
+			"card_id": 1155,
+			"bank_name": "ICICI BANK",
+			"card_name": "Parakram Select",
+			"shopping": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [
+					"Grocery & Department Stores: capped at 1,000 Reward Points per month (w.e.f Apr 15, 2024)"
+				],
+				"cap_value": 1000,
+				"cap_unit": "points",
+				"cap_period": "month",
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": "Grocery & Department Stores"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["No specific conditions"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, Fuel, Utility and International spends, Cash advance, ATM withdrawal, Expenditure in the form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1156,
+			"bank_name": "ICICI BANK",
+			"card_name": "Parakram",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Grocery & department stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Grocery & department stores"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance, fuel, utility and international spends",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1157,
+			"bank_name": "ICICI BANK",
+			"card_name": "Sapphiro Amex",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1158,
+			"bank_name": "ICICI BANK",
+			"card_name": "Mine Starter",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, utility transactions, electricity transactions, cash withdrawal through ATMs and / or exchange houses, balance transfers, cash-on-call, Merchant EMI (Equated Monthly Instalment) transactions, EMI-on call transactions, any insurance and fee levied by bank, any adjustment entries made by the bank",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1159,
+			"bank_name": "ICICI BANK",
+			"card_name": "Manchester United Platinum",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 3,
+				"condition": ["3 Reward points on match days of Manchester United"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Manchester United"
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 3,
+				"condition": ["3 Reward points on match days of Manchester United"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 3,
+				"condition": ["3 Reward points on match days of Manchester United"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 3,
+				"condition": ["3 Reward points on match days of Manchester United"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 3,
+				"condition": ["3 Reward points on match days of Manchester United"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Reward points on qualifying spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1160,
+			"bank_name": "ICICI BANK",
+			"card_name": "MakeMyTrip Signature",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["on all other bookings"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rail, Metro and Visa",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 Mycash includes hotel/holiday bookings on MakeMyTrip",
+					"0.75 Mycash on flight bookings",
+					"1.5 Mycash on all other bookings"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rail, Metro and Visa",
+				"brands": "MakeMyTrip"
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1161,
+			"bank_name": "ICICI BANK",
+			"card_name": "MakeMyTrip Platinum",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Domestic spends outside MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC), rent, government, education",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Domestic spends outside MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC), rent, government, education",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": ["Spends on hotel/holiday bookings on MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC)",
+				"brands": "MakeMyTrip"
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Domestic spends outside MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC), rent, government, education",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["Domestic spends outside MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC), rent, government, education",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.25,
+				"accelerated_earn": 1.25,
+				"condition": ["International spends outside MakeMyTrip"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Wallet, fuel, fees/charges, EMI transactions, Balance Transfer, Personal loan on Credit Cards (PLCC)",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1162,
+			"bank_name": "ICICI BANK",
+			"card_name": "Instant Platinum",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1163,
+			"bank_name": "ICICI BANK",
+			"card_name": "Business Gold Card",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "wallet",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Utility",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1% fee on any merchant"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1167,
+			"bank_name": "ICICI BANK",
+			"card_name": "HPCL Coral American Express",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"2.5% Cashback at HPCL pumps",
+					"1% fuel surcharge waiver at HPCL pumps"
+				],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": "HPCL"
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Wallet loads",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Education",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Insurance",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Utilities",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1168,
+			"bank_name": "ICICI BANK",
+			"card_name": "HPCL Coral",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["HPCL pumps"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "HPCL"
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1169,
+			"bank_name": "ICICI BANK",
+			"card_name": "Coral",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1170,
+			"bank_name": "ICICI BANK",
+			"card_name": "Ferrari Signature",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel",
+				"brands": "HPCL pumps"
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1171,
+			"bank_name": "ICICI BANK",
+			"card_name": "Expressions",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1172,
+			"bank_name": "ICICI BANK",
+			"card_name": "Emirates Skywards Sapphiro",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["international and domestic spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1173,
+			"bank_name": "ICICI BANK",
+			"card_name": "Emirates Skywards Rubyx",
+			"shopping": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1174,
+			"bank_name": "ICICI BANK",
+			"card_name": "Emirates Skywards Emeralde",
+			"shopping": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel, Cash advance, ATM withdrawal, Expenditure in form of EMI, Balance transfer, PLCC, Fees and other charges",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1175,
+			"bank_name": "ICICI BANK",
+			"card_name": "Emeralde",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1176,
+			"bank_name": "ICICI BANK",
+			"card_name": "HPCL Super Saver",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 20,
+				"condition": ["departmental stores"],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["HPCL fuel pumps on any bank POS or HP Pay"],
+				"cap_value": 200,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": "HPCL"
+			},
+			"groceries": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["government"],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [],
+				"cap_value": 100,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1177,
+			"bank_name": "ICICI BANK",
+			"card_name": "Diamant",
+			"shopping": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1178,
+			"bank_name": "ICICI BANK",
+			"card_name": "Manchester United Signature",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"5 Match Day Points will be earned on days when Manchester United plays an English Premier League match"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1437,
+			"bank_name": "ICICI BANK",
+			"card_name": "Emeralde Private",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel payments",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["1000 Reward Points per statement cycle"],
+				"cap_value": 1000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["1000 Reward Points per statement cycle"],
+				"cap_value": 1000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["5000 Reward Points per statement cycle"],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Tax payments",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["1000 Reward Points per statement cycle"],
+				"cap_value": 1000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rent payments",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1438,
+			"bank_name": "ICICI BANK",
+			"card_name": "MakeMyTrip",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["other MakeMyTrip spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "MakeMyTrip"
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 6,
+				"condition": [
+					"Hotel bookings on MakeMyTrip: 6%",
+					"Flight, Holiday, Cab, Bus bookings on MakeMyTrip: 3%"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "MakeMyTrip"
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1439,
+			"bank_name": "ICICI BANK",
+			"card_name": "Times Black",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Capping of <5000> ICICI Bank reward points is present in each statement cycle"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Capping of <5000> ICICI Bank reward points is present in each statement cycle"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Capping of <5000> ICICI Bank reward points is present in each statement cycle for Government payments like house tax, advance tax"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"Capping of <5000> ICICI Bank reward points is present in each statement cycle"
+				],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 2.5,
+				"accelerated_earn": 2.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1440,
+			"bank_name": "ICICI BANK",
+			"card_name": "Adani One Signature",
+			"error": "JSON Parsing Failed",
+			"raw_output": "```json\n{\n  \"shopping\": {\n    \"base_earn\": 1.5,\n    \"accelerated_earn\": 7,\n    \"condition\": [\"Adani OneApp services like Flight booking, Pranaam, and Hotel booking\"],\n    \"cap_value\": null,\n    \"cap_unit\": null,\n    \"cap_period\": null,\n    \"exclusions\": \"Fuel transactions, Rent payments, EMI, Balance Transfer (BT), or Personal Loan on Credit Card, Interest or fees (late payment, joining fee, etc.), Gambling or business-related transactions\",\n    \"brands\": \"Adani OneApp\"\n  },\n  \"dining\": {\n    \"base_earn\": 1.5,\n    \"accelerated_earn\": 7,\n    \"condition\": [\"Adani OneApp services like Flight booking, Pranaam, and Hotel booking\"],\n    \"cap_value\": null,\n    \"cap_unit\": null,\n    \"cap_period\": null,\n    \"exclusions\": \"Fuel transactions, Rent payments, EMI, Balance Transfer (BT), or Personal Loan on Credit Card, Interest or fees (late payment, joining fee, etc.), Gambling or business-related transactions\",\n    \"brands\": \"Adani OneApp\"\n  },\n  \"travel\": {\n    \"base_earn\": 1.5,\n    \"accelerated_earn\": 7,\n    \"condition\": [\"Adani OneApp services like Flight booking, Pranaam, and Hotel booking\"],\n    \"cap_value\": null,\n    \"cap_unit\": null,\n    \"cap_period\": null,\n    \"exclusions\": \"Fuel transactions, Rent payments, EMI, Balance Transfer (BT), or Personal Loan on Credit Card, Interest or fees (late payment, joining fee, etc.), Gambling or business-related transactions\",\n    \"brands\": \"Adani OneApp\"\n  },\n  \"movie\": {\n    \"base_earn\": 1.5,\n    \"accelerated_earn\": 1.5,\n    \"condition\": [],\n    \"cap_value\": null,\n    \"cap_unit\": null,\n    \"cap_period\": null,\n    \"exclusions\": \"Fuel transactions, Rent payments, EMI, Balance Transfer (BT), or Personal Loan on Credit Card, Interest or fees (late payment, joining fee, etc.), Gambling or business-related transactions\",\n    \"brands\": null\n  },\n  \"fuel\": {\n    \"base_earn\": 0,\n    \"accelerated_earn\": 0,\n    \"condition\": [],\n    \"cap_value\": null,\n    \"cap_unit\": null,\n    \"cap_period\": null,\n    \"exclusions\": \"Fuel transactions, Rent payments, EMI, Balance Transfer ("
+		},
+		{
+			"card_id": 1441,
+			"bank_name": "ICICI BANK",
+			"card_name": "Adani One Platinum",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": ["Adani One platform spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": ["Adani One platform spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": [
+					"Adani One platform spends including flights, hotels, trains, Adani-managed airports"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel transactions excluded from rewards",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": ["Adani One platform spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"jewellery": {
+				"base_earn": 1,
+				"accelerated_earn": 3,
+				"condition": ["Adani One platform spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Insurance transactions excluded from accelerated rewards",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": ["Gas, electricity, and utilities on Adani One platform"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Adani One"
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rent payments excluded from rewards",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 1.5,
+				"accelerated_earn": 1.5,
+				"condition": ["International spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Business-related transactions excluded from rewards",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1442,
+			"bank_name": "ICICI BANK",
+			"card_name": "Mine Pro",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Zomato, Swiggy"
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Ola"
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "BookMyshow, Amazon Prime, PVR, Inox"
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Big Basket, Grofers"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1443,
+			"bank_name": "ICICI BANK",
+			"card_name": "Mine Premium",
+			"shopping": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Amazon, Myntra"
+			},
+			"dining": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Zomato, Swiggy"
+			},
+			"travel": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Ola, Goibibo, MakeMyTrip"
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "BookMyshow, Amazon Prime, PVR, Inox"
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Big Basket, Grofers"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Restricted to the value of Qualifying Transaction(s), up to the credit limit assigned to the Card"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

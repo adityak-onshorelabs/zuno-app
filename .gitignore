@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+zuno-frontend/node_modules/
+
+# Environment variables
+.env
+.env.local
+zuno-frontend/.env
+zuno-frontend/.env.local
+
+# Next.js build output
+zuno-frontend/.next/
+zuno-frontend/out/
+
+# Mac OS auto-generated files
+.DS_Store

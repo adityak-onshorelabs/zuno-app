@@ -1,0 +1,4152 @@
+{
+	"YES BANK": [
+		{
+			"card_id": 1315,
+			"bank_name": "YES BANK",
+			"card_name": "Wellness",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["Retail purchases only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel transactions, Cash Advance Fee, Government & Marketing / Advertising category transactions, EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["Retail purchases only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel transactions, Cash Advance Fee, Government & Marketing / Advertising category transactions, EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["Retail purchases only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel transactions, Cash Advance Fee, Government & Marketing / Advertising category transactions, EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["Retail purchases only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel transactions, Cash Advance Fee, Government & Marketing / Advertising category transactions, EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["Pharmacy (MCC: 59122)"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 300,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1316,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity Rewards Plus",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% fee + applicable GST will be levied on every fuel transaction of value greater than INR 10,000. Total Fuel Transaction charges will be capped at INR 5,000 per customer per calendar month"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% fee +applicable GST will be levied on education transactions done through third-party websites and applications including (but not limited to) CRED, PhonePe, Housing.com, No-broker, Cheq etc. in a calendar month. Fee capped at INR 5,000 per calendar month"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"A charge of 1% + applicable GST will be applicable on all utility transactions on Spends above INR15,000 in a month. Fee capped at INR3000 in a month"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1317,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity Rewards Edge",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 on travel & dining spends"
+				],
+				"cap_value": 1500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 on travel & dining spends"
+				],
+				"cap_value": 1500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on Wallet loads",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": [
+					"Minimum 0.75% of transaction value or Rs 1 whichever is higher on Wallet transactions > INR1"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 4,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": [
+					"Minimum 0.75% of transaction value or Rs 1 whichever is higher on Rental transactions > INR1",
+					"capped at 3 transactions per 30 days period"
+				],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 2,
+				"condition": ["4 reward points on every INR 200 on all categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1319,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity Cashback Plus",
+			"shopping": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0.75,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0.75,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0.75,
+				"accelerated_earn": 0.75,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1% fee + applicable GST on transactions > INR 10000"],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["1% fee + GST on transactions via third-party websites"],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": 3000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "1% + GST fee on spends above INR 15000 in a month",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Fee of 1% of transaction value or INR 1 (whichever higher) up to INR 1000; 1% or INR 199 (whichever higher) above INR 1000"
+				],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1320,
+			"bank_name": "YES BANK",
+			"card_name": "Premia",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 12,
+				"accelerated_earn": 6,
+				"condition": ["12 points per 200 INR"],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 12,
+				"accelerated_earn": 6,
+				"condition": ["12 points per 200 INR"],
+				"cap_value": 2500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 3,
+				"accelerated_earn": 3,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1321,
+			"bank_name": "YES BANK",
+			"card_name": "Private Prime",
+			"shopping": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (fuel transactions are excluded from reward points)",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (jewellery transactions are excluded from reward points)",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (wallet transactions are excluded from reward points)",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (education transactions are excluded from reward points). Education transactions via third-party platforms incur a 1% fee",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (insurance transactions are excluded from reward points)",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (tax transactions are excluded from reward points)",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (utility transactions are excluded from reward points). Utility spends above ₹50,000/month incur a 1% fee",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (rent transactions are excluded from reward points and capped at 3 transactions/month)",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 40,
+				"accelerated_earn": 40,
+				"condition": ["retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Rental, Wallet, fuel, Government & Marketing / Advertising category transactions, Cash Advance, Fee, Charges, EMI on Call & Instant EMI",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not applicable (business transactions are excluded from reward points)",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1322,
+			"bank_name": "YES BANK",
+			"card_name": "Wellness Plus",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"6 Reward Points On spending INR 200 on other categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"6 Reward Points On spending INR 200 on other categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"6 Reward Points On spending INR 200 on other categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": [
+					"6 Reward Points On spending INR 200 on other categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% fee + applicable GST on transactions > INR 10,000, capped at INR 5,000 per calendar month"
+				],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "calendar month",
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 30,
+				"accelerated_earn": 30,
+				"condition": [
+					"30 Reward Points On every INR 200 spent on Chemists / Pharmaceutical stories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": "Chemists / Pharmaceutical stories"
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% of transaction value or INR 1 (up to INR 1,000) or INR 199 (above INR 1,000) fee"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Minimum 1% fee applies",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% fee + GST on third-party education transactions, capped at INR 5,000 per calendar month"
+				],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "calendar month",
+				"exclusions": "Applicable from 1st October’24",
+				"brands": "CRED, PhonePe, Housing.com, No-broker, Cheq"
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% + GST fee on transactions > INR 15,000 monthly, capped at INR 3,000 per month"
+				],
+				"cap_value": 3000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "Applicable from 1st October’24",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"3 transactions per 30 days: 1% of value or INR 1 (up to INR 1,000) or INR 199 (above INR 1,000) fee"
+				],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1323,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity Cashback",
+			"shopping": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0.5,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0.5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on non-Auto Pay transactions",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0.5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on non-Auto Pay transactions",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 5,
+				"accelerated_earn": 5,
+				"condition": ["Auto Pay only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on non-Auto Pay transactions",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0.5,
+				"condition": ["All other spends except fuel"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1324,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity Business",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 for spends on Air/Hotel/Dining/Travel/Rented Vehicles",
+					"Capped at 1500 points per statement cycle",
+					"Milestones: 10,000 Reward Points On annual spends of INR 6 Lakhs or more in each anniversary year"
+				],
+				"cap_value": 1500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 for spends on Air/Hotel/Dining/Travel/Rented Vehicles",
+					"Capped at 1500 points per statement cycle",
+					"Milestones: 10,000 Reward Points On annual spends of INR 6 Lakhs or more in each anniversary year"
+				],
+				"cap_value": 1500,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"1% fee + GST on fuel transactions > 10,000 INR",
+					"Fuel transaction charges capped at 5000 INR/month"
+				],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "Fuel transaction fee applicable October 2024",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Minimum 1% of transaction value or Rs 1 fee on Wallet/Rental transactions > 1 INR",
+					"Rental transactions capped at 3 per 30 days period"
+				],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": "Wallet loads, Rented Vehicles",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’",
+					"1% fee + GST on education transactions via third-party apps",
+					"Milestones: 10,000 Reward Points On annual spends of INR 6 Lakhs or more in each anniversary year"
+				],
+				"cap_value": 5000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "Transactions via third-party websites (CRED, PhonePe, etc.)",
+				"brands": "CRED, PhonePe, Housing.com, No-broker, Cheq"
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’",
+					"1% fee + GST on utility transactions > 50,000 INR/month (effective July 2025)"
+				],
+				"cap_value": 3000,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": "Utility transactions > 50,000 INR/month",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"Minimum 1% of transaction value or Rs 1 fee on Wallet/Rental transactions > 1 INR"
+				],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": "Rental transactions do not accrue any reward points",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1325,
+			"bank_name": "YES BANK",
+			"card_name": "First Preferred",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 spent on all categories except select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on select categories",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 spent on all categories except select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on select categories",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 spent on all categories except select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on select categories",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 spent on all categories except select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on select categories",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelered_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 reward points on every INR 200 spent on all categories except select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Not valid on select categories",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions greater than Rs 1 on wallet are charged 1% fee or Rs 1, whichever is higher",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Education fee charges 1% + GST on third-party transactions",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "month",
+				"exclusions": "Rental spends do not accrue any reward points",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": ["4 reward points per INR 200 spent on select categories"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1326,
+			"bank_name": "YES BANK",
+			"card_name": "First Exclusive",
+			"shopping": {
+				"base_earn": 12,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 24,
+				"accelerated_earn": 24,
+				"condition": ["24 reward points on every INR 200 spent"],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 24,
+				"accelerated_earn": 24,
+				"condition": ["24 reward points on every INR 200 spent"],
+				"cap_value": 5000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 12,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Fuel transactions may incur a 1% fee with GST for amounts above ₹10,000, capped at ₹5,000 per month starting 1st October’24 onwards.",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 12,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Jewellery transactions do not accrue reward points.",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "30 days",
+				"exclusions": "Wallet transactions do not accrue any reward points. Minimum 1% of transaction value or ₹1 fee on transactions > ₹1, capped at 3 transactions per 30 days.",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Education transactions may incur a 1% fee + GST via third-party websites/applications (CRED, PhonePe, Housing.com, No-broker, Cheq), capped at ₹5,000 per month starting 1st October’24 onwards.",
+				"brands": "CRED, PhonePe, Housing.com, No-broker, Cheq"
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "1% fee + GST on utility transactions exceeding ₹50,000 monthly spend, capped at ₹3,000 per month starting 1st July 2025 onwards.",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": 3,
+				"cap_unit": "transactions",
+				"cap_period": "30 days",
+				"exclusions": "Rental transactions do not accrue reward points and are capped at 3 transactions per 30-day period. Fee applies for transaction amounts above ₹1.",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 12,
+				"condition": ["12 reward points on every INR 200"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1327,
+			"bank_name": "YES BANK",
+			"card_name": "First Business",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": [
+					"16 YES Rewardz Points for every INR 200 on Air/Hotel/Dinning/Travel/Rented Vehicles"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 16,
+				"accelerated_earn": 16,
+				"condition": [
+					"16 YES Rewardz Points for every INR 200 on Air/Hotel/Dinning/Travel/Rented Vehicles"
+				],
+				"cap_value": 3000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on Select category"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on Select category"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on Select category"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points for every INR 200 on all categories other than ‘Select categories’"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on Select category"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 4,
+				"condition": [
+					"4 YES Rewardz Points for every INR 200 on Select category"
+				],
+				"cap_value": 20000,
+				"cap_unit": "points",
+				"cap_period": "year",
+				"exclusions": "Select categories",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1328,
+			"bank_name": "YES BANK",
+			"card_name": "EMI",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1% Cashback on non-EMI transactions"],
+				"cap_value": 500,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1% Cashback on non-EMI transactions"],
+				"cap_value": 500,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1% Cashback on non-EMI transactions"],
+				"cap_value": 500,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1% Cashback on non-EMI transactions"],
+				"cap_value": 500,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": ["1% Cashback on non-EMI transactions"],
+				"cap_value": 500,
+				"cap_unit": "INR",
+				"cap_period": "month",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Transactions related to purchase of fuel, cash withdrawals, rental, wallet, utility payment, government categories, education services or any other select categories as per the internal policy and guidelines of YES BANK.",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1329,
+			"bank_name": "YES BANK",
+			"card_name": "BYOC",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": ["Retail transactions only"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "fuel transactions, cash advance, fees & charges, Priority Pass charges and EMI on Call & Instant EMI transactions",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1475,
+			"bank_name": "YES BANK",
+			"card_name": "ACE",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points On every INR 200 for Online Shopping (except on Select categories)",
+					"4 YES Rewardz Points On every INR 200 for Offline Shopping (except on Select categories)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "No Reward Points for Rent, Wallet, Fuel, UPI, Government & Marketing/Advertising category transactions, cash withdrawals and EMI transactions",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "No Reward Points for Fuel transactions",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "No Reward Points for Wallet transactions",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "No Reward Points for Rent transactions",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1476,
+			"bank_name": "YES BANK",
+			"card_name": "Elite+",
+			"shopping": {
+				"base_earn": 12,
+				"accelerated_earn": 12,
+				"condition": [
+					"12 YES Rewardz Points on every INR 200 for Online Shopping",
+					"6 YES Rewardz Points on every INR 200 for Offline Shopping",
+					"except on Select categories"
+				],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "YES Rewardz Points will not be awarded on Fuel category transactions",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "YES Rewardz Points will not be awarded on Wallet category transactions",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "YES Rewardz Points will not be awarded on Government category transactions",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [],
+				"cap_value": 12000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": "Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "YES Rewardz Points will not be awarded on Rental category transactions",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1477,
+			"bank_name": "YES BANK",
+			"card_name": "Marquee",
+			"shopping": {
+				"base_earn": 36,
+				"accelerated_earn": 36,
+				"condition": [],
+				"cap_value": 100000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": 100000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": 100000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": 100000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Reward points not awarded on Fuel transactions",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 10,
+				"accelerated_earn": 10,
+				"condition": [],
+				"cap_value": 100000,
+				"cap_unit": "points",
+				"cap_period": "statement cycle",
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Reward points not awarded on Wallet transactions",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Reward points not awarded on Government & Marketing / Advertising category transactions",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Reward points not awarded on Rental transactions",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1478,
+			"bank_name": "YES BANK",
+			"card_name": "Prosperity",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 1,
+				"condition": [
+					"1 Reward Point on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except Select Categories",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 1,
+				"condition": [
+					"1 Reward Point on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except Select Categories",
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 1,
+				"condition": [
+					"1 Reward Point on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except Select Categories",
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 2,
+				"accelerated_earn": 1,
+				"condition": [
+					"1 Reward Point on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except Select Categories",
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Reward Points on every INR 200 spent On all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Select Categories",
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1479,
+			"bank_name": "YES BANK",
+			"card_name": "Reserv",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"1 Reward Points on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"1 Reward Points on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"1 Reward Points on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"1 Reward Points on every INR 200 spent on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 1,
+				"condition": [
+					"2 Reward Points on every INR 200 spent on all Categories except Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1480,
+			"bank_name": "YES BANK",
+			"card_name": "Select",
+			"shopping": {
+				"base_earn": 8,
+				"accelerated_earn": 8,
+				"condition": [
+					"8 YES Rewardz Points on every INR 200 for Online Shopping (except on Select categories)",
+					"4 YES Rewardz Points on every INR 200 for Offline Shopping (except on Select categories)",
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": "Except on Select categories",
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 YES Rewardz Points on every INR 200 on Select categories"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1483,
+			"bank_name": "YES BANK",
+			"card_name": "Finbooster",
+			"shopping": {
+				"base_earn": 6,
+				"accelerated_earn": 6,
+				"condition": ["Other retail spends (except fuel) INR 200 = 2 points"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 10,
+				"accelerated_earn": 50,
+				"condition": ["Online Dining INR 200 = 10 points"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["Other Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["Other Spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": ["except fuel in other retail spends"],
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 6,
+				"condition": ["Online grocery/ Apparel INR 200 = 6 points"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1484,
+			"bank_name": "YES BANK",
+			"card_name": "Klick",
+			"shopping": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 2,
+				"accelerated_earn": 2,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": ["2 Rewards for every Rs. 200 non-UPI spends"],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1485,
+			"bank_name": "YES BANK",
+			"card_name": "Private",
+			"shopping": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"20 Reward points on INR 200 on domestic spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"20 Reward points on INR 200 on domestic spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"20 Reward points on INR 200 on domestic spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"20 Reward points on INR 200 on domestic spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 20,
+				"accelerated_earn": 20,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"20 Reward points on INR 200 on domestic spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 40,
+				"accelerated_earn": 40,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days",
+					"40 Reward points on INR 200 on international spends (w.e.f Dec’24th 2023)"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [
+					"2 Lakh Welcome reward points applicable to Paid Cards",
+					"50,000 Milestone Bonus reward points on total retail spend of Rs. 10 Lakhs in 1st 90 days"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1486,
+			"bank_name": "YES BANK",
+			"card_name": "Rupay",
+			"shopping": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Applicable on UPI transactions above ₹2,000 for every ₹200 spent",
+					"Applicable on non-UPI transactions for every ₹200 spent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Applicable on UPI transactions above ₹2,000 for every ₹200 spent",
+					"Applicable on non-UPI transactions for every ₹200 spent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Applicable on UPI transactions above ₹2,000 for every ₹200 spent",
+					"Applicable on non-UPI transactions for every ₹200 spent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Applicable on UPI transactions above ₹2,000 for every ₹200 spent",
+					"Applicable on non-UPI transactions for every ₹200 spent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 4,
+				"accelerated_earn": 4,
+				"condition": [
+					"Applicable on UPI transactions above ₹2,000 for every ₹200 spent",
+					"Applicable on non-UPI transactions for every ₹200 spent"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		},
+		{
+			"card_id": 1487,
+			"bank_name": "YES BANK",
+			"card_name": "Unicard",
+			"shopping": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% Reward points (Rewards issued as Uni coins) on all transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"dining": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% Reward points (Rewards issued as Uni coins) on all transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"travel": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% Reward points (Rewards issued as Uni coins) on all transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"movie": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% Reward points (Rewards issued as Uni coins) on all transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"fuel": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"groceries": {
+				"base_earn": 1,
+				"accelerated_earn": 1,
+				"condition": [
+					"1% Reward points (Rewards issued as Uni coins) on all transactions"
+				],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"jewellery": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"wallet": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"education": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"insurance": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"tax": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"utility": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"rent": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"forex": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			},
+			"business": {
+				"base_earn": 0,
+				"accelerated_earn": 0,
+				"condition": [],
+				"cap_value": null,
+				"cap_unit": null,
+				"cap_period": null,
+				"exclusions": null,
+				"brands": null
+			}
+		}
+	]
+}

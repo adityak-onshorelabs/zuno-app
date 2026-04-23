@@ -53,10 +53,24 @@ async function seedAllData() {
 				const mergedForBank = crData.map((crCard) => {
 					const matchingPedia =
 						pediaData.find((p) => p.card_id === crCard.card_id) || {};
-					return {
-						...matchingPedia,
-						...crCard,
-					};
+					const merged = { ...matchingPedia, ...crCard };
+
+					// Where pedia has a non-empty string and CR has an object for the
+					// same key, they mean different things (e.g. pedia "forex" = markup
+					// %, CR "forex" = earn-rate object). Keep the pedia string so
+					// Creditpedia screen always gets human-readable text.
+					for (const key of Object.keys(matchingPedia)) {
+						if (
+							typeof matchingPedia[key] === "string" &&
+							matchingPedia[key].trim() !== "" &&
+							merged[key] !== null &&
+							typeof merged[key] === "object"
+						) {
+							merged[key] = matchingPedia[key];
+						}
+					}
+
+					return merged;
 				});
 
 				allMergedCards.push(...mergedForBank);

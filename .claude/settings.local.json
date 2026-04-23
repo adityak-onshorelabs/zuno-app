@@ -7,7 +7,16 @@
       "Bash(node:*)",
       "Bash(npx eslint:*)",
       "Bash(cat .eslintrc*)",
-      "Bash(cat eslint.config*)"
+      "Bash(cat eslint.config*)",
+      "Bash(npx shadcn@latest add accordion input)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git ls-tree *)",
+      "Bash(claude doctor *)",
+      "Bash(ls -d .worktrees)",
+      "Bash(ls -d worktrees)",
+      "Bash(git restore *)"
     ]
   }
 }
